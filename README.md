@@ -2,7 +2,7 @@
 
 This script search all fonts downloaded with adobe cloud and copy it in the dstFolder
 
-yarn start <dstFolder>
+yarn start \<dstFolder>
 
 Usage : 
 
