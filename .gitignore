@@ -1,0 +1,5 @@
+application.log
+node_modules
+build
+.DS_Store
+.vscode/
