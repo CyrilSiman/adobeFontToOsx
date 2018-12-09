@@ -2,9 +2,11 @@
 
 This script search all fonts downloaded with adobe cloud and copy it in the dstFolder
 
+Usage :
+
 yarn start \<dstFolder>
 
-Usage : 
+Install : 
 
 `git clone git@github.com:CyrilSiman/adobeFontToOsx.git`
 
