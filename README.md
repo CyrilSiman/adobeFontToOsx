@@ -14,4 +14,4 @@ Install :
 
 `yarn start ./fonts` 
 
-Once fonts copied you can install it in Mac OS fonts book. 
+Once fonts are copied you can install them in Mac OS fonts book. 
